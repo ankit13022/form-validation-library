@@ -1,0 +1,19 @@
+{
+  "name": "form-validation-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit13022/form-validation-library.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankit13022/form-validation-library/issues"
+  },
+  "homepage": "https://github.com/ankit13022/form-validation-library#readme"
+}
